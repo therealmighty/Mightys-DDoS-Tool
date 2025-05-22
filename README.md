@@ -1,5 +1,5 @@
 # Mightys-DDoS-Tool
-Basic python DoS tool (USES YOUR OWN PC) to run a rapid UDP attack.
+Basic python DDoS tool (USES YOUR OWN PC) to run a rapid UDP attack.
 
 Requirements:
 Python
